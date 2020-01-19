@@ -29,7 +29,8 @@
   },
   "files": [
     "lib/**/*",
-    "dist/*"
+    "dist/*",
+    "browser/**/*"
   ],
   "license": "BSD-3-Clause"
 }
